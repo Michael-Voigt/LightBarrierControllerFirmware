@@ -58,7 +58,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>main.App</mainClass>
+                <mainClass>com.MichaelVoigt.app.main.App</mainClass>
               </manifest>
             </archive>
           </configuration>
