@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Light Barrier Controller - Version 1.0 Dev Branch" );
+        System.out.println( "Light Barrier Controller - Version 1.0 Dev Branch " );
         System.out.println( "Searching for Light Barriers..." );
         System.out.println( "4 Light Barriers found." );
         System.out.println( "Connecting to Light Barriers..." );
