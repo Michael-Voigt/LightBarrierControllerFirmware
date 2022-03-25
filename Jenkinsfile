@@ -13,11 +13,11 @@ pipeline {
                 bat 'mvn package'
             }
         }
-        stage('upload to SAP') {
-            steps {
-                echo 'Upload to SAP'
-            }
-        }
+        // stage('upload to SAP') {
+        //     steps {
+        //         echo 'Upload to SAP'
+        //     }
+        // }
     }
     post {
         success {
