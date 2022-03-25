@@ -3,7 +3,7 @@
 // In addition to the new Software Version, a new Version of the Software Document is created
 // and the all artifact will be uploaded to the new Version of the Software Document
 //
-// Therefore, no stage 'upload to SAP' is required
+// Therefore no stage 'upload to SAP' is required
 
 pipeline {
     agent any
